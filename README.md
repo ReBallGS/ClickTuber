@@ -1,4 +1,4 @@
-# 🌟 **ClickTuber: Transforme sua Experiência no YouTube!** 🌟
+# 🌟 **ClickTuber: Transforme sua Experiência no YouTube!** 
 
 Torne sua jornada no YouTube mais fluida e eficiente com o nosso incrível plugin, o ClickTuber! Este companheiro perfeito oferece conveniência ao automatizar a ação de pular vídeos indesejados após um período específico, seja nos primeiros 5 segundos ou no tempo determinado pelo próprio YouTube.
 
