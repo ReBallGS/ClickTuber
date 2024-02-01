@@ -1,5 +1,5 @@
 {
-  "manifest_version": 1,
+  "manifest_version": 2,
   "name": "Click Tuber",
   "description": "Fecha automaticamente os anúncios do YouTube.",
   "version": "1.0",
